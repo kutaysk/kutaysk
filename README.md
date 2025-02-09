@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+-I’m a student at galatasaray university
+-c#, c, react
+-How to reach me: @kutay_sk instagram
 <!--
 **kutaysk/kutaysk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
